@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/NobiDeveloper/Nobita-Filter-Bot",
-    "repository": "https://github.com/NobiDeveloper/Nobita-Filter-Bot",
+    "website": "@RichaS69",
+    "repository": "https://github.com/kumarmanish21/Sinchen-Filtret_bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
